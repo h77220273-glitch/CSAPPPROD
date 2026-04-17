@@ -7,3 +7,4 @@ flask_wtf
 flask_login
 werkzeug
 gunicorn
+flask_migrate
